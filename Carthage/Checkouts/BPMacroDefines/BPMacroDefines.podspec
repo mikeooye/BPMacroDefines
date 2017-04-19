@@ -16,9 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BPMacroDefines"
-  s.version      = "0.0.2"
-  s.summary      = "BPMacroDefines Objective-C 开发应用时，经常使用到的宏定义"
-  s.description  = "BPMacroDefines 定义了使用 Objective-C 开发时，会经常使用到的宏定义"
+  s.version      = "0.0.1"
+  s.summary      = "Objective-C 开发应用时，经常使用到的宏定义"
 
   s.homepage     = "https://github.com/mikeooye/BPMacroDefines"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"

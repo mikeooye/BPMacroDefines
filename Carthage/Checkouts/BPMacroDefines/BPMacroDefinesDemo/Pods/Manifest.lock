@@ -1,0 +1,16 @@
+PODS:
+  - BPMacroDefines (0.0.1)
+
+DEPENDENCIES:
+  - BPMacroDefines (from `../`)
+
+EXTERNAL SOURCES:
+  BPMacroDefines:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BPMacroDefines: 5a2a67c7eac4218aa2f9a191fa0043ffca094cb4
+
+PODFILE CHECKSUM: 59cab87ed33827d485d96d4a39d256aa2070d84f
+
+COCOAPODS: 1.2.0
